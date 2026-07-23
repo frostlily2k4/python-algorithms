@@ -55,6 +55,18 @@ python-algorithms/
 │   ├── hashing/
 │   │   └── hash_table.py
 │   │
+│   ├── stack/
+│   │   └── stack.py
+│   │
+│   ├── queue/
+│   │   └── queue.py
+│   │
+│   ├── linked_list/
+│   │   └── singly_linked_list.py
+│   │
+│   ├── doubly_linked_list/
+│   │   └── doubly_linked_list.py
+│   │
 │   └── __init__.py
 │
 ├── tests/
@@ -76,6 +88,10 @@ python-algorithms/
 | 🌐 Graph | Dijkstra's Algorithm | ✅ |
 | 🌳 Trees | Binary Search Tree (BST) | ✅ |
 | #️⃣ Hashing | Hash Table (Separate Chaining) | ✅ |
+| 📦 Stack | Stack (LIFO) | ✅ |
+| 📦 Queue | Queue (FIFO) | ✅ |
+| 🔗 Linked List | Singly Linked List | ✅ |
+| 🔗 Linked List | Doubly Linked List | ✅ |
 
 ## 📊 Algorithm Complexity
 
@@ -179,6 +195,8 @@ python -m unittest discover tests
 | 🌐 Graph Algorithms | ✅ Completed |
 | 🌳 Trees | ✅ Completed |
 | #️⃣ Hashing | ✅ Completed |
+| 📦 Stack & Queue | ✅ Completed |
+| 🔗 Linked Lists | ✅ Completed |
 | 💡 Dynamic Programming | 🚧 Coming Soon |
 | 🎯 Greedy Algorithms | 🚧 Coming Soon |
 | 🔁 Backtracking | 🚧 Coming Soon |
